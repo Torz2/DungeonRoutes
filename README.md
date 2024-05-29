@@ -15,10 +15,6 @@ To install this mod please follow this list accordingly.
 5.) Enjoy your S+ Runs!
 
 # Showcase
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vsM154T9qQw/0.jpg)](https://www.youtube.com/watch?v=vsM154T9qQw)
-
-# Images
-![image](https://github.com/Torz2/DungeonRoutes/assets/131714881/294710d2-1b0c-4cae-9b89-7bb5cf7577b3)
-![image](https://github.com/Torz2/DungeonRoutes/assets/131714881/6a0dcf82-570b-4eba-8abb-d3b9b2fde1e4)
+https://www.youtube.com/watch?v=vsM154T9qQw
 
 
