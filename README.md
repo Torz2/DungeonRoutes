@@ -20,5 +20,6 @@ ___
 # Showcase
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vsM154T9qQw/0.jpg)](http://www.youtube.com/watch?v=vsM154T9qQw)
+
 This is a YouTube Video, not an image. (Just click it to watch) Thanks! :)
 ___
