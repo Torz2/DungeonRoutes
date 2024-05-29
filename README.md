@@ -7,7 +7,7 @@ ___
 ___
 To install this mod please follow this list accordingly.
 ___
-1.) Navigate to the [I'm an inline-style link with title](https://www.google.com "Google's Homepage") section of this Repository.
+1.) Navigate to the [Releases](https://github.com/Torz2/DungeonRoutes/releases/tag/Releases "Repository Releases") section of this Repository.
 
 2.) Download the latest release.
 
