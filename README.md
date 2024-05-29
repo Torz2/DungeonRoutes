@@ -15,6 +15,7 @@ To install this mod please follow this list accordingly.
 5.) Enjoy your S+ Runs!
 
 # Showcase
-https://www.youtube.com/watch?v=vsM154T9qQw
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vsM154T9qQw/0.jpg)](http://www.youtube.com/watch?v=vsM154T9qQw)
 
 
